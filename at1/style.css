@@ -1,0 +1,28 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background: black;
+    color: white;
+    height: 150px;
+}
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 10px;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
