@@ -24,5 +24,56 @@ nav {
 a {
     text-decoration: none;
     color: white;
-    padding: 10px;
+    margin-top: 25px;
+    padding: 15px;
+    font-size: 18px;
+}
+
+
+h1 {
+    font-size: 25px;
+    margin: 45px;
+    text-align: center;
+    color: black;
+}
+
+
+h2 {
+    font-size: 25px;
+    color: white;
+}
+.topo {
+    margin: 10px;
+}
+
+
+.capa {
+    width: 100%;
+}
+
+
+.produtos {
+    background: black;
+    color: white;
+    padding: 20px 40px;
+}
+
+
+.itens {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.footer {
+    padding: 50px 40px;
+    background-color: black;
+    color: white;
+}
+
+
+.redes_sociais {
+    color: white;
+    font-size: 20px;
 }
